@@ -1,3 +1,11 @@
+v0.4.10
+=================
+* updated demo-snippet to use ^
+
+v0.4.9
+=================
+* added mega demo
+
 v0.4.8
 =================
 * added image to readme page

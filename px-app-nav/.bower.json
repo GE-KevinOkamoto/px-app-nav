@@ -21,7 +21,8 @@
     "polymer": "^v1.5.0",
     "px-theme": "~0.8.0",
     "web-animations-js": "^2.2.0",
-    "px-tooltip": "^0.7.0"
+    "px-tooltip": "^0.7.0",
+    "px-list-bare-design": "^0.2.13"
   },
   "devDependencies": {
     "px-forms-design": "#~0.3.15",
@@ -30,7 +31,7 @@
     "px-polymer-font-awesome": "^0.1.8",
     "px-tabs": "~0.4.0",
     "px-api-viewer": "~0.0.3",
-    "px-demo-snippet": "~0.1.0",
+    "px-demo-snippet": "^0.1.0",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
     "px-actionable-text-icons-design": "^0.0.3",
@@ -45,7 +46,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.7.3",
-    "commit": "f7d3c19709e34d367a23974c156c6f5b2c6df316"
+    "commit": "f885bdcb88ebfc15d716c69a1f7b36a7be618ea9"
   },
   "_source": "https://github.com/PredixDev/px-app-nav.git",
   "_target": "^1.5.2",

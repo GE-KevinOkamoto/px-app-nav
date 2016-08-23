@@ -1,6 +1,6 @@
 {
   "name": "px-app-nav",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "main": [
     "px-app-nav.html"
   ],
@@ -22,16 +22,16 @@
     "px-theme": "~0.8.0",
     "web-animations-js": "^2.2.0",
     "px-tooltip": "^0.7.0",
-    "px-list-bare-design": "^0.2.13"
+    "px-list-bare-design": "^0.2.13",
+    "px-polymer-font-awesome": "^0.1.8"
   },
   "devDependencies": {
     "px-forms-design": "#~0.3.15",
     "px-tables-design": "#~0.3.12",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#~1.2.3",
-    "px-polymer-font-awesome": "^0.1.8",
     "px-tabs": "~0.4.0",
-    "px-api-viewer": "~0.0.3",
-    "px-demo-snippet": "^0.1.0",
+    "px-api-viewer": "~0.0.5",
+    "px-demo-snippet": "^0.2.2",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
     "px-actionable-text-icons-design": "^0.0.3",
@@ -42,11 +42,11 @@
     "px-login": "~0.4.0"
   },
   "homepage": "https://github.com/PredixDev/px-app-nav",
-  "_release": "1.7.4",
+  "_release": "1.7.5",
   "_resolution": {
     "type": "version",
-    "tag": "v1.7.4",
-    "commit": "83bb55c17f3a7e88bc16f64b8ab7e2a552801788"
+    "tag": "v1.7.5",
+    "commit": "4c6a1fcedabc8b37a8388c33cead463942965306"
   },
   "_source": "https://github.com/PredixDev/px-app-nav.git",
   "_target": "^1.5.2",

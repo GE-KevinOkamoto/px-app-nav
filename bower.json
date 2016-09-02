@@ -1,6 +1,6 @@
 {
   "name": "px-app-nav",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "main": [
     "px-app-nav.html"
   ],
@@ -43,11 +43,8 @@
     "px-iconography-design": "^0.2.0"
   },
   "resolutions": {
-    "iron-ajax": "^1.4.3",
-    "px-viewport-design": "~0.4.1",
-    "px-typography-design": "~1.1.1",
-    "px-clipboard": "^0.1.1",
-    "px-tooltip": "^0.8.1",
-    "px-theme": "^1.1.2"
+    "px-typography-design": "^1.1.0",
+    "px-theme": "~1.1.2",
+    "iron-ajax": "^1.0.0"
   }
 }
